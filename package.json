@@ -1,0 +1,34 @@
+{
+  "name": "vue-loader-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "name is self-explaining",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbutav/vue-loader-template.git"
+  },
+  "author": "A.A.Butareev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbutav/vue-loader-template/issues"
+  },
+  "homepage": "https://github.com/alexbutav/vue-loader-template#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.12.0",
+    "sass": "^1.23.0-module.beta.1",
+    "sass-loader": "^8.0.0",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.1",
+    "vue-router": "^3.1.3",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
