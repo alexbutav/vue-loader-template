@@ -5,11 +5,11 @@ const path = require('path');
 
 module.exports = {
     mode: 'development',
-    // resolve: {
-    //     alias: {
-    //         'vue$': 'vue/dist/vue.esm.js'
-    //     }
-    // },
+    resolve: {
+        alias: {
+            'vue$': 'vue/dist/vue.esm.js'
+        }
+    },
     entry: './src/index.js',
     output: {
         filename: 'main.js',
